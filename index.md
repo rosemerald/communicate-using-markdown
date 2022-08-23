@@ -5,3 +5,11 @@
 <h2> Yaktocat
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+This site was built using [GitHub Pages](https://github.com/skills).
+```
+
+
+```
