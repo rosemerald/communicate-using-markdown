@@ -12,4 +12,6 @@ This site was built using [GitHub Pages](https://github.com/skills).
 ```
 
 
-```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
